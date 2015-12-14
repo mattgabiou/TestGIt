@@ -8,6 +8,7 @@ int main()
     cout << "2. Where is the devil?" << endl;
     cout << "3. Found the devil!" << endl;
     cout << "4. Talkin to the devil!" << endl;
+    cout << "5. Deal with the devil!" << endl;
 
     return 0;
 }
